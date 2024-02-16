@@ -1,0 +1,3 @@
+birth_yeaer=int(input("enter the year "))
+age=2023-birth_yeaer
+print(age)
